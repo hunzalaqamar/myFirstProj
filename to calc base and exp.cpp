@@ -27,6 +27,4 @@ int main()
 	cout << "\n";          //to get space
 
 	system("pause");       //to stop screen
-
-	return 0;
 }
